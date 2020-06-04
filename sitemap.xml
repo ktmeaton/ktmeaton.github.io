@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/ann-carmichael/</loc>
     <lastmod>2020-06-05T21:00:00+00:00</lastmod>
   </url>
@@ -44,6 +39,11 @@
   
   <url>
     <loc>/author/katherine-eaton/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-06-05T21:00:00+00:00</lastmod>
   </url>
   
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>/publication/ncbimeta/</loc>
+    <loc>/publication/eaton2020/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,18 +138,68 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/tag/python/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/python/</loc>
+    <loc>/publication/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/sra/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/willmott2020/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/black-death/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/britain/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/diana-mahoney-swales/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hugh-willmott/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jennifer-klunk/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mass-grave/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-townend/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/thornton-abbey/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/yersinia-pestis/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>

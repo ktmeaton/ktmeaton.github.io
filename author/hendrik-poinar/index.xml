@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hendrik Poinar | Academic</title>
+    <title>Hendrik Poinar | Katherine Eaton</title>
     <link>/author/hendrik-poinar/</link>
       <atom:link href="/author/hendrik-poinar/index.xml" rel="self" type="application/rss+xml" />
     <description>Hendrik Poinar</description>
@@ -19,6 +19,14 @@
       <guid>/talk/dhsi2020/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Black Death mass grave at Thornton Abbey: the discovery and examination of a fourteenth-century rural catastrophe</title>
+      <link>/publication/willmott2020/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/willmott2020/</guid>
+      <description></description>
     </item>
     
   </channel>

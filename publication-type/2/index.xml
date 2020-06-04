@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
+    <title>2 | Katherine Eaton</title>
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
@@ -14,9 +14,17 @@
     
     <item>
       <title>NCBImeta: efficient and comprehensive metadata retrieval from NCBI databases</title>
-      <link>/publication/ncbimeta/</link>
+      <link>/publication/eaton2020/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ncbimeta/</guid>
+      <guid>/publication/eaton2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Black Death mass grave at Thornton Abbey: the discovery and examination of a fourteenth-century rural catastrophe</title>
+      <link>/publication/willmott2020/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/willmott2020/</guid>
       <description></description>
     </item>
     

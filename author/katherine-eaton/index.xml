@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine Eaton | Academic</title>
+    <link>/author/katherine-eaton/</link>
+      <atom:link href="/author/katherine-eaton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine Eaton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/katherine-eaton/avatar_hu1d3a676f04c7aec23361456b4963eb8f_81230_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Katherine Eaton</title>
+      <link>/author/katherine-eaton/</link>
+    </image>
+    
+    <item>
+      <title>NCBImeta: efficient and comprehensive metadata retrieval from NCBI databases</title>
+      <link>/publication/ncbimeta/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ncbimeta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

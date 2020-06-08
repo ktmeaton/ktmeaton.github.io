@@ -5,58 +5,34 @@
     <link>/author/katherine-eaton/</link>
       <atom:link href="/author/katherine-eaton/index.xml" rel="self" type="application/rss+xml" />
     <description>Katherine Eaton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 21:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/katherine-eaton/avatar_hu1d3a676f04c7aec23361456b4963eb8f_81230_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Katherine Eaton</title>
       <link>/author/katherine-eaton/</link>
     </image>
     
     <item>
-      <title>NCBImeta: efficient and comprehensive metadata retrieval from NCBI databases</title>
-      <link>/publication/eaton2020/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/eaton2020/</guid>
-      <description></description>
+      <title>Presenting “The Plague”: Digital Exhibits as Interdisciplinary Method</title>
+      <link>/talk/dhsi2020/</link>
+      <pubDate>Fri, 05 Jun 2020 21:00:00 +0000</pubDate>
+      <guid>/talk/dhsi2020/</guid>
+      <description>&lt;h2 id=&#34;dhsi2020-video-presentation&#34;&gt;DHSI2020 Video Presentation&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External Link to Video&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4&#34; &lt;=&#34;&#34; iframe=&#34;&#34; width=&#34;100%&#34; height=&#34;400px&#34; frameborder=&#34;1&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;presentation-exhibit&#34;&gt;Presentation Exhibit&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External Link to Exhibit&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote&#34; &lt;=&#34;&#34; iframe=&#34;&#34; width=&#34;125%&#34; height=&#34;600px&#34; frameborder=&#34;1&#34;&gt;&lt;/iframe&gt;
+</description>
     </item>
     
     <item>
-      <title>A Black Death mass grave at Thornton Abbey: the discovery and examination of a fourteenth-century rural catastrophe</title>
-      <link>/publication/willmott2020/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/willmott2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic resiliency and the Black Death: No apparent loss of mitogenomic diversity due to the Black Death in medieval London and Denmark</title>
-      <link>/publication/klunk2019/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/klunk2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ancient Roman mitochondrial genomes and isotopes reveal relationships and geographic origins at the local and pan-Mediterranean scales</title>
-      <link>/publication/emery2018/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/emery2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#39;Written in Bone&#39;: New Discoveries about the Lives and Burials of Four Roman Londoners</title>
-      <link>/publication/redfern2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/redfern2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Museum of London Report on the DNA Analyses of Four Roman Individuals</title>
-      <link>/publication/eaton2015/</link>
-      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/eaton2015/</guid>
+      <title>Plagues, Pipes, and Genotypes</title>
+      <link>/talk/beap2020/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/beap2020/</guid>
       <description></description>
     </item>
     

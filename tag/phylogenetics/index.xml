@@ -5,12 +5,20 @@
     <link>/tag/phylogenetics/</link>
       <atom:link href="/tag/phylogenetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Phylogenetics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Phylogenetics</title>
       <link>/tag/phylogenetics/</link>
     </image>
+    
+    <item>
+      <title>Plague Phylogeography</title>
+      <link>/talk/beap2021/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/beap2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plagues, Pipes, and Genotypes</title>

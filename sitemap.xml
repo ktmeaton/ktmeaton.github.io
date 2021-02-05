@@ -3,12 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/ann-carmichael/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/tag/big-data/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/genomics/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/geospatial/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/katherine-eaton/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nextstrain/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/phd/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/phylogenetics/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plague/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/beap2021/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ann-carmichael/</loc>
     <lastmod>2020-06-05T21:00:00+00:00</lastmod>
   </url>
   
@@ -38,37 +98,12 @@
   </url>
   
   <url>
-    <loc>/author/katherine-eaton/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/nukhet-varlik/</loc>
     <lastmod>2020-06-05T21:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/plague/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/dhsi2020/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2020-06-05T21:00:00+00:00</lastmod>
   </url>
   
@@ -104,11 +139,6 @@
   
   <url>
     <loc>/tag/bioinformatics/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genomics/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -200,11 +230,6 @@
   <url>
     <loc>/tag/yersinia-pestis/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/phylogenetics/</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>

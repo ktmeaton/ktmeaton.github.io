@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bioarchaeology | Katherine Eaton</title>
-    <link>/tag/bioarchaeology/</link>
-      <atom:link href="/tag/bioarchaeology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ktmeaton.github.io/tag/bioarchaeology/</link>
+      <atom:link href="https://ktmeaton.github.io/tag/bioarchaeology/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioarchaeology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ktmeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bioarchaeology</title>
-      <link>/tag/bioarchaeology/</link>
+      <link>https://ktmeaton.github.io/tag/bioarchaeology/</link>
     </image>
     
     <item>
       <title>&#39;Written in Bone&#39;: New Discoveries about the Lives and Burials of Four Roman Londoners</title>
-      <link>/publication/redfern2017/</link>
+      <link>https://ktmeaton.github.io/publication/redfern2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/redfern2017/</guid>
+      <guid>https://ktmeaton.github.io/publication/redfern2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Museum of London Report on the DNA Analyses of Four Roman Individuals</title>
-      <link>/publication/eaton2015/</link>
+      <link>https://ktmeaton.github.io/publication/eaton2015/</link>
       <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/eaton2015/</guid>
+      <guid>https://ktmeaton.github.io/publication/eaton2015/</guid>
       <description></description>
     </item>
     

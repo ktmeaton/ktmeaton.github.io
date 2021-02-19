@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katherine Eaton</title>
-    <link>/author/katherine-eaton/</link>
-      <atom:link href="/author/katherine-eaton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ktmeaton.github.io/author/katherine-eaton/</link>
+      <atom:link href="https://ktmeaton.github.io/author/katherine-eaton/index.xml" rel="self" type="application/rss+xml" />
     <description>Katherine Eaton</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ktmeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Katherine Eaton</title>
-      <link>/author/katherine-eaton/</link>
+      <link>https://ktmeaton.github.io/author/katherine-eaton/</link>
     </image>
     
     <item>
       <title>Plague Phylogeography: Novel Synthesis and Geospatial Analysis</title>
-      <link>/talk/beap2021/</link>
+      <link>https://ktmeaton.github.io/talk/beap2021/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/talk/beap2021/</guid>
+      <guid>https://ktmeaton.github.io/talk/beap2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presenting “The Plague”: Digital Exhibits as Interdisciplinary Method</title>
-      <link>/talk/dhsi2020/</link>
+      <link>https://ktmeaton.github.io/talk/dhsi2020/</link>
       <pubDate>Fri, 05 Jun 2020 21:00:00 +0000</pubDate>
-      <guid>/talk/dhsi2020/</guid>
+      <guid>https://ktmeaton.github.io/talk/dhsi2020/</guid>
       <description>&lt;h2 id=&#34;dhsi2020-video-presentation&#34;&gt;DHSI2020 Video Presentation&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External Link to Video&lt;/a&gt;&lt;/p&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Plagues, Pipes, and Genotypes</title>
-      <link>/talk/beap2020/</link>
+      <link>https://ktmeaton.github.io/talk/beap2020/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/beap2020/</guid>
+      <guid>https://ktmeaton.github.io/talk/beap2020/</guid>
       <description>&lt;p&gt;Template Attribution: 
 &lt;a href=&#34;https://freegoogleslidestemplates.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free Google Slides Template&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -48,9 +48,9 @@
     
     <item>
       <title>NCBImeta</title>
-      <link>/talk/ncbimeta2019/</link>
+      <link>https://ktmeaton.github.io/talk/ncbimeta2019/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/ncbimeta2019/</guid>
+      <guid>https://ktmeaton.github.io/talk/ncbimeta2019/</guid>
       <description>&lt;p&gt;Template Attribution: 
 &lt;a href=&#34;https://freegoogleslidestemplates.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free Google Slides Template&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jennifer Klunk | Katherine Eaton</title>
-    <link>/author/jennifer-klunk/</link>
-      <atom:link href="/author/jennifer-klunk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ktmeaton.github.io/author/jennifer-klunk/</link>
+      <atom:link href="https://ktmeaton.github.io/author/jennifer-klunk/index.xml" rel="self" type="application/rss+xml" />
     <description>Jennifer Klunk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ktmeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jennifer Klunk</title>
-      <link>/author/jennifer-klunk/</link>
+      <link>https://ktmeaton.github.io/author/jennifer-klunk/</link>
     </image>
     
     <item>
       <title>A Black Death mass grave at Thornton Abbey: the discovery and examination of a fourteenth-century rural catastrophe</title>
-      <link>/publication/willmott2020/</link>
+      <link>https://ktmeaton.github.io/publication/willmott2020/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/willmott2020/</guid>
+      <guid>https://ktmeaton.github.io/publication/willmott2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetic resiliency and the Black Death: No apparent loss of mitogenomic diversity due to the Black Death in medieval London and Denmark</title>
-      <link>/publication/klunk2019/</link>
+      <link>https://ktmeaton.github.io/publication/klunk2019/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/klunk2019/</guid>
+      <guid>https://ktmeaton.github.io/publication/klunk2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ancient Roman mitochondrial genomes and isotopes reveal relationships and geographic origins at the local and pan-Mediterranean scales</title>
-      <link>/publication/emery2018/</link>
+      <link>https://ktmeaton.github.io/publication/emery2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/emery2018/</guid>
+      <guid>https://ktmeaton.github.io/publication/emery2018/</guid>
       <description></description>
     </item>
     

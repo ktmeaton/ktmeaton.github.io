@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thornton Abbey | Katherine Eaton</title>
-    <link>/tag/thornton-abbey/</link>
-      <atom:link href="/tag/thornton-abbey/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ktmeaton.github.io/tag/thornton-abbey/</link>
+      <atom:link href="https://ktmeaton.github.io/tag/thornton-abbey/index.xml" rel="self" type="application/rss+xml" />
     <description>Thornton Abbey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ktmeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Thornton Abbey</title>
-      <link>/tag/thornton-abbey/</link>
+      <link>https://ktmeaton.github.io/tag/thornton-abbey/</link>
     </image>
     
     <item>
       <title>A Black Death mass grave at Thornton Abbey: the discovery and examination of a fourteenth-century rural catastrophe</title>
-      <link>/publication/willmott2020/</link>
+      <link>https://ktmeaton.github.io/publication/willmott2020/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/willmott2020/</guid>
+      <guid>https://ktmeaton.github.io/publication/willmott2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github | Katherine Eaton</title>
-    <link>/tag/github/</link>
-      <atom:link href="/tag/github/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ktmeaton.github.io/tag/github/</link>
+      <atom:link href="https://ktmeaton.github.io/tag/github/index.xml" rel="self" type="application/rss+xml" />
     <description>Github</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ktmeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Github</title>
-      <link>/tag/github/</link>
+      <link>https://ktmeaton.github.io/tag/github/</link>
     </image>
     
     <item>
       <title>Autologs</title>
-      <link>/project/autologs/</link>
+      <link>https://ktmeaton.github.io/project/autologs/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/project/autologs/</guid>
+      <guid>https://ktmeaton.github.io/project/autologs/</guid>
       <description></description>
     </item>
     

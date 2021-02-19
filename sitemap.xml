@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/autologs/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/database/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/flowdash-bio/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/git/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/github/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ngs/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -28,11 +73,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/nextstrain/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -54,11 +94,6 @@
   
   <url>
     <loc>/talk/beap2021/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,27 +143,12 @@
   </url>
   
   <url>
-    <loc>/tag/database/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/ncbimeta/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/ngs/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/plague-phylogeography/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   

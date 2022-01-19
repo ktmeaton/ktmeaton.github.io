@@ -1,518 +1,354 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/art/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/project/autologs/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/database/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/project/flowdash-bio/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/fun/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/git/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/github/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/music/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/ngs/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/fun/pixilart/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/project/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tags/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/fun/the-name-of-snow/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/authors/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/big-data/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/genomics/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/geospatial/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/katherine-eaton/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/nextstrain/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/phd/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/phylogenetics/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/plague/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/talk/beap2021/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/talk/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/ann-carmichael/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/brian-golding/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/digital-exhibit/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/digital-humanities/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/hendrik-poinar/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/tag/interdisciplinary/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/nukhet-varlik/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/talk/dhsi2020/</loc>
-    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/project/ncbimeta/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/project/plague-phylogeography/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://ktmeaton.github.io/publication-type/2/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/ana-t.-duggan/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/ancient-environmental-dna/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/ancient-mitochondrial-genomes/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/authors/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/duane-froese/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/emil-karpinski/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/grant-zazula/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/hendrik-n.-poinar/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/katherine-eaton/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/late-quaternary-extinctions/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/metagenomics/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/permafrost/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/phylogenetics/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/publication/murchie2022/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/publication_types/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/publication/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/ross-d.e.-macphee/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/sina-baleka/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/steppe-bison/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tags/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/tyler-j.-murchie/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/willow-ptarmigan/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/woolly-mammoth/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/yukon-horse/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/art/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/project/autologs/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/database/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/project/flowdash-bio/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/fun/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/git/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/github/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/music/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/ngs/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/fun/pixilart/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/project/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/fun/the-name-of-snow/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/big-data/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/genomics/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/geospatial/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/katherine-eaton/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/nextstrain/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/phd/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/plague/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/talk/beap2021/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/talk/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/ann-carmichael/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/brian-golding/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/digital-exhibit/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/digital-humanities/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/hendrik-poinar/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/tag/interdisciplinary/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/author/nukhet-varlik/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/talk/dhsi2020/</loc>
+    <lastmod>2020-06-05T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/project/ncbimeta/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ktmeaton.github.io/project/plague-phylogeography/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/bioinformatics/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/katherine-eaton/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/metadata/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/ncbi/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/publication/eaton2020/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/publication_types/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/publication/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/python/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/sra/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/publication/willmott2020/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/black-death/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/britain/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/diana-mahoney-swales/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/hugh-willmott/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/jennifer-klunk/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/mass-grave/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/peter-townend/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/thornton-abbey/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/yersinia-pestis/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/talk/beap2020/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/workflow-management-system/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/talk/ncbimeta2019/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/sql/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/alison-devault/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/ana-t.-duggan/</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/ancient-dna/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/brittany-s.-walter/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/denmark/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/g.-brian-golding/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/publication/klunk2019/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/hendrik-n.-poinar/</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/jeanmarie-rouillard/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/jesper-l.-boldsen/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/julia-gamble/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/julianna-stangroom/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/london/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/medieval/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/migration/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/mitochondrial-dna/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/rebecca-redfern/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/sharon-n.-dewitte/</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/slides/example-slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/publication/emery2018/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/emil-karpinski/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/henry-p.-schwarcz/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/jessica-hider/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/matthew-v.-emery/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/robert-j.-stark/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/tracy-l.-prowse/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ktmeaton.github.io/author/tyler-j.-murchie/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/publication/redfern2017/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/adna/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/bioarchaeology/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/diet/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/funerary/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/grave-goods/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/michael-marshall/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/mobility/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/author/rebecca-c.-redfern/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/roman/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/tag/stable-isotopes/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/publication-type/4/</loc>
     <lastmod>2015-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/publication/eaton2015/</loc>
     <lastmod>2015-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ktmeaton.github.io/post/</loc>
   </url>
-  
 </urlset>

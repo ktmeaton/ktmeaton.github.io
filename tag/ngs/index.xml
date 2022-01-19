@@ -5,7 +5,7 @@
     <link>https://ktmeaton.github.io/tag/ngs/</link>
       <atom:link href="https://ktmeaton.github.io/tag/ngs/index.xml" rel="self" type="application/rss+xml" />
     <description>NGS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ktmeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>NGS</title>
@@ -13,26 +13,18 @@
     </image>
     
     <item>
+      <title>Big Data, Small Microbes: Genomic analysis of the plague bacterium Yersinia pestis</title>
+      <link>https://ktmeaton.github.io/publication/eaton2022a/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ktmeaton.github.io/publication/eaton2022a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flowdash-Bio</title>
       <link>https://ktmeaton.github.io/project/flowdash-bio/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://ktmeaton.github.io/project/flowdash-bio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NCBImeta</title>
-      <link>https://ktmeaton.github.io/project/ncbimeta/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://ktmeaton.github.io/project/ncbimeta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plague Phylogeny</title>
-      <link>https://ktmeaton.github.io/project/plague-phylogeography/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://ktmeaton.github.io/project/plague-phylogeography/</guid>
       <description></description>
     </item>
     
